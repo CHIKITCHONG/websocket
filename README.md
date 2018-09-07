@@ -1,6 +1,9 @@
 # websocket
 websocket聊天室
 
+
+![demo](https://github.com/CHIKITCHONG/websocket/blob/master/demo.gif)
+
 # 功能介绍
 这是一个使用websocket、flask搭建的聊天室,可以聊天,加入房间,退出房间, 广播信息。
 
