@@ -28,7 +28,7 @@ vagrant ssh
 hostname -I
 
 # 运行项目：
-sudo python3 app.py
+sudo python3 chat.py
 ```
 
 #### 说明：由于socketio有bug,不支持window，所以需要在虚拟环境下运行
